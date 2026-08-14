@@ -1,0 +1,87 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Römer
+    given-names: Johann
+    affiliation: "MOR Research Collective"
+title: "paraglacial-hazard-utac"
+version: "1.0.0"
+date-released: "2026-08-14"
+url: "https://github.com/GenesisAeon/paraglacial-hazard-utac"
+repository-code: "https://github.com/GenesisAeon/paraglacial-hazard-utac"
+license: MIT
+abstract: "Paraglacial and geophysical hazard science: GIA/seismicity context (a real Western Alps contrast case), permafrost-driven rock-slope instability, and glacial lake outburst flood (GLOF) exposure. Companion to glacial-seismicity-utac (P101). Deliberately no UTAC/CREP/AFET bridge. GenesisAeon P102."
+keywords:
+  - GenesisAeon
+  - P102
+  - climate
+  - glacier
+  - geohazard
+  - permafrost
+  - GLOF
+  - open-science
+references:
+  - type: article
+    title: "Glacial-isostatic-adjustment strain rate-stress paradox in the Western Alps and impact on active faults and seismicity"
+    authors:
+      - name: "Grosset, J."
+      - name: "Mazzotti, S."
+      - name: "Vernant, P."
+    year: 2023
+    journal: "Solid Earth"
+    volume: 14
+    start: 1067
+    doi: "10.5194/se-14-1067-2023"
+  - type: article
+    title: "Paraglacial geomorphology"
+    authors:
+      - name: "Ballantyne, C.K."
+    year: 2002
+    journal: "Quaternary Science Reviews"
+    volume: 21
+    issue: "18-19"
+    start: 1935
+    doi: "10.1016/S0277-3791(02)00005-7"
+  - type: article
+    title: "Influence of permafrost degradation and glacier retreat on recent high mountain rockfall distribution in the eastern European Alps"
+    authors:
+      - name: "Fey, C."
+      - name: "Wichmann, V."
+      - name: "Zangerl, C."
+    year: 2025
+    journal: "Earth Surface Processes and Landforms"
+    volume: 50
+    issue: 5
+    doi: "10.1002/esp.70063"
+  - type: article
+    title: "Permafrost in steep bedrock slopes and its temperature-related destabilization following climate change"
+    authors:
+      - name: "Gruber, S."
+      - name: "Haeberli, W."
+    year: 2007
+    journal: "Journal of Geophysical Research: Earth Surface"
+    volume: 112
+    doi: "10.1029/2006JF000547"
+  - type: article
+    title: "Glacial lake outburst floods threaten millions globally"
+    authors:
+      - name: "Taylor, C."
+      - name: "Robinson, T.R."
+      - name: "Dunning, S."
+    year: 2023
+    journal: "Nature Communications"
+    volume: 14
+    start: 487
+    doi: "10.1038/s41467-023-36033-x"
+  - type: article
+    title: "A global database of historic glacier lake outburst floods"
+    authors:
+      - name: "Lutzow, N."
+      - name: "Veh, G."
+      - name: "Korup, O."
+    year: 2023
+    journal: "Earth System Science Data"
+    volume: 15
+    start: 2983
+    doi: "10.5194/essd-15-2983-2023"

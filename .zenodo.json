@@ -1,0 +1,29 @@
+{
+  "title": "paraglacial-hazard-utac — P102: Paraglacial and geophysical hazard science",
+  "description": "<p>Paraglacial and geophysical hazard science: GIA/seismicity context (a real Western Alps contrast case where GIA explains deformation but not seismicity, Grosset et al. 2023), permafrost-driven rock-slope instability (Fey et al. 2025, Gruber &amp; Haeberli 2007), and glacial lake outburst flood (GLOF) exposure (Taylor et al. 2023, Lutzow et al. 2023). Companion to glacial-seismicity-utac (P101). Deliberately has NO UTAC/CREP/AFET bridge. See DISCLAIMER.md. Part of the <strong>GenesisAeon</strong> ecosystem (P102, domain: climate / geohazards / glaciology).</p>",
+  "creators": [
+    {
+      "name": "Römer, Johann",
+      "affiliation": "Independent Researcher / MOR Research Collective"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "GenesisAeon",
+    "P102",
+    "climate",
+    "glacier",
+    "geohazard",
+    "permafrost",
+    "GLOF",
+    "open-science"
+  ],
+  "communities": [
+    {
+      "identifier": "genesisaeon"
+    }
+  ]
+}
