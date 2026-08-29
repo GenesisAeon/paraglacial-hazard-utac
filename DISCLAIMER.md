@@ -58,6 +58,28 @@ Every figure in this package was checked directly against the paper
   topic; the cited papers already provide the relevant quantitative
   structure without this ecosystem's cross-domain vocabulary.
 
+## Real-world confirmation (observed, not predicted)
+
+This package was released 2026-08-15, and the underlying literature
+(Ballantyne 2002, Fey/Wichmann/Zangerl 2025, Taylor/Robinson/Dunning 2023)
+was cited independently of any specific future event. On 2026-08-26, a
+major glacier collapse at Langtang Lirung (Nepal-China border) sent a
+large debris mass downslope causing severe flooding; National Geographic
+Germany's coverage of high-mountain glacier-collapse risk (2026-08-29,
+citing the Blatten/Birchgletscher, Switzerland collapse of May 2026 and
+GLOF exposure concentrated in the Himalaya/Tibetan Plateau) describes
+exactly the permafrost-driven rock-slope instability and GLOF-exposure
+pattern this package's `paraglacial_activity_decay()` and GLOF-exposure
+functions are built from.
+
+This is **not** a prediction this package made — it did not forecast
+Langtang Lirung, Blatten, or any specific event. What it documents is that
+the general risk mechanism already established in the cited peer
+literature (permafrost thaw destabilizing slopes; GLOF exposure
+concentrated in exactly these regions) continues to manifest in real,
+dated events after this package's release. Noted here as one more data
+point, not as validation of any package-specific formula or constant.
+
 ## References
 
 - Grosset, J., Mazzotti, S., Vernant, P. (2023). *Solid Earth*, 14,
