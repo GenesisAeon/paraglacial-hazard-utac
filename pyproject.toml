@@ -1,6 +1,6 @@
 [project]
 name = "paraglacial-hazard-utac"
-version = "1.0.0"
+version = "1.0.1"
 description = "Paraglacial and geophysical hazard science -- GIA/seismicity context (Grosset et al. 2023), permafrost-driven rock-slope instability (Fey et al. 2025, Gruber & Haeberli 2007), and GLOF exposure (Taylor et al. 2023, Lutzow et al. 2023) -- companion to glacial-seismicity-utac (P101), no UTAC/CREP bridge"
 readme = "README.md"
 license = { text = "MIT" }

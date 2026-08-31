@@ -42,7 +42,7 @@ from .slope_instability import (
     rockfall_overrepresentation_factor,
 )
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "BALLANTYNE_2002_CITATION",

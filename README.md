@@ -6,6 +6,9 @@ Companion to [glacial-seismicity-utac](https://github.com/GenesisAeon/glacial-se
 two more real paraglacial hazard domains. **Deliberately has no
 UTAC/CREP/AFET bridge** — see [DISCLAIMER.md](DISCLAIMER.md).
 
+For a plain-language explanation of the same topic (German, no jargon,
+written for general audiences), see [WHITEPAPER.md](WHITEPAPER.md).
+
 ## What's real here
 
 - **GIA context** (`gia_context.py`): Grosset, Mazzotti & Vernant
